@@ -15,7 +15,7 @@ let equipoCoder = [
     },
     {
         nombre: "eugenia",
-        apellido: "merida",
+        apellido: "mirenda",
         nacionalidad: "colombiana",
         signo:"virgo",
         puntaje:8
